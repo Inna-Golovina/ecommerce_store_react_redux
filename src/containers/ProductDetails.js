@@ -7,10 +7,9 @@ import React, { useEffect } from "react";
   //removeSelectedProduct,
 //} from "../redux/actions/productsActions";
 const ProductDetails = () => {
-  
   return (
     <div className="ui grid container">
-     
+     <h1>Product Details</h1>
     </div>
   );
 };
